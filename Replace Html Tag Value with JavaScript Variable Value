@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Do</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>       
+        
+        
+        <p id="raj">  hello    </p>
+        
+        <table border="1px;">
+            
+            <tr><td id="gg">fbcbccbvcmbvnmbvmvbvcmnbvmvmmbvc</td></tr>
+        </table>
+        
+        <script>
+            var g,c;
+            g="Hello sangam";
+            c="Sangam University  121";
+            document.getElementById('raj').innerHTML=g;
+            document.getElementById('gg').innerHTML=c;
+            
+            </script>
+        
+        
+      
+        
+    </body>
+</html>
